@@ -1,0 +1,10 @@
+^D:\MVGA\BARYCENTRIC - WINDOWS PORT\BARYCENTRIC - WINDOWS\CMAKEFILES\370ED942F072B5198F26FCF006E0743D\GENERATE.STAMP.RULE
+setlocal
+.compilers\CMake\bin\cmake.exe "-SD:/mvga/barycentric - windows port/barycentric - windows" "-BD:/mvga/barycentric - windows port/barycentric - windows" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/mvga/barycentric - windows port/barycentric - windows/Barycentric.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

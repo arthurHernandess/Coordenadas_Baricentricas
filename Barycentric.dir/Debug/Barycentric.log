@@ -1,0 +1,9 @@
+﻿  Building Custom Rule C:/Users/offic/OneDrive/Documentos/barycentric/barycentric/CMakeLists.txt
+  stb_image.cpp
+  Barycentric.cpp
+  Gerando Código...
+  glad.c
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflita com uso de outras bibliotecas; use /NODEFAULTLIB:library
+  Barycentric.vcxproj -> C:\Users\offic\OneDrive\Documentos\barycentric\barycentric\Debug\Barycentric.exe
+  'pwsh.exe' não é reconhecido como um comando interno
+  ou externo, um programa operável ou um arquivo em lotes.

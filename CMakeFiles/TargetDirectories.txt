@@ -1,0 +1,3 @@
+D:/mvga/barycentric - windows port/barycentric - windows/CMakeFiles/Barycentric.dir
+D:/mvga/barycentric - windows port/barycentric - windows/CMakeFiles/ALL_BUILD.dir
+D:/mvga/barycentric - windows port/barycentric - windows/CMakeFiles/ZERO_CHECK.dir

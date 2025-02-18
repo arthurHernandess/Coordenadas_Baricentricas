@@ -1,0 +1,3 @@
+/home/helton/SPH/LearnOpenGL/src/Shader/barycentric/build/CMakeFiles/Barycentric.dir
+/home/helton/SPH/LearnOpenGL/src/Shader/barycentric/build/CMakeFiles/edit_cache.dir
+/home/helton/SPH/LearnOpenGL/src/Shader/barycentric/build/CMakeFiles/rebuild_cache.dir
