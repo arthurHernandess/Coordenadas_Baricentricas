@@ -7,3 +7,5 @@ Vericamos se o cursor do mouse do usuário está dentro ou fora do triângulo ge
 1.3 Tenha o Visual Studio instalado e certifique-se de que o pacote de desenvolvimento C++ está baixado
 1.4 Rode o arquivo buildexe.bat, o código será compilado
 1.5 A tela ficará preta no final da compilação, aperte Espaço.
+
+O EP do helton em si está em Shaders/Image.fs
